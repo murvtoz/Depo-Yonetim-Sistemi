@@ -1,8 +1,8 @@
 
-📦 Depo Yönetim Sistemi (Warehouse Management System)         
+#📦 **Depo Yönetim Sistemi (Warehouse Management System)**         
 Bu proje, modern depo yönetim ihtiyaçlarını karşılamak üzere tasarlanmış, Java programlama dili ile geliştirilmiş bir envanter ve raf yönetim simülasyonudur. Proje, Nesne Yönelimli Programlama (OOP) prensiplerini gerçek dünya senaryolarına uygulamak amacıyla hazırlanmıştır.
 
-📖 Proje Hakkında         
+#📖 **Proje Hakkında**         
 Depo Yönetim Sistemi, bir deponun dijital ikizini oluşturarak; ürünlerin raflara yerleştirilmesi, stok takibi, kapasite yönetimi ve verilerin kalıcı olarak saklanması süreçlerini optimize eder. Proje kapsamında verimlilik, veri bütünlüğü ve kullanıcı dostu bir yönetim arayüzü hedeflenmiştir.
 
 🛠️ Temel Özellikler         
