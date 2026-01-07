@@ -17,14 +17,14 @@ Raporlama Sistemi: Depo doluluk oranlarını ve kritik stok seviyelerini içeren
 📂 Proje Yapısı ve Mimari
 Projenin dosya düzeni, temiz kod (clean code) prensiplerine uygun olarak src klasörü altında yapılandırılmıştır:
 
-Depo-Yonetim-Sistemi/
-├── src/
-│   ├── Raf.java             # Raf nesnesinin blueprint'i (özellikler ve kapsülleme)
-│   ├── RafManager.java      # İş mantığı ve operasyonel yönetim sınıfı
-│   ├── DosyaIslemleri.java  # Veri okuma/yazma ve I/O işlemleri
-│   └── Main.java            # Uygulamanın giriş noktası
-├── Raporlar/                # Proje analiz ve sonuç dökümanları
-└── README.md                # Proje tanıtım belgesi
+Depo-Yonetim-Sistemi/  
+├── src/   
+│   ├── Raf.java             # Raf nesnesinin blueprint'i (özellikler ve kapsülleme)   
+│   ├── RafManager.java      # İş mantığı ve operasyonel yönetim sınıfı   
+│   ├── DosyaIslemleri.java  # Veri okuma/yazma ve I/O işlemleri   
+│   └── Main.java            # Uygulamanın giriş noktası    
+├── Raporlar/                # Proje analiz ve sonuç dökümanları    
+└── README.md                # Proje tanıtım belgesi    
 
 🚀 Teknolojik Stack
 Dil: Java (JDK 8+ veya 11+)
