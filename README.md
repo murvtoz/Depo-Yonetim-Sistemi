@@ -36,10 +36,10 @@ Versiyon Kontrol: Git & GitHub
 👥 Proje Ekibi
 Bu proje, üniversite bünyesinde yürütülen bir geliştirme çalışması olup aşağıdaki ekip üyeleri tarafından tasarlanmıştır:
 
-Geliştiriciler,
-Murat Efe Özoğul
-Berat Güngör
-Ömer Çelik
+Geliştiriciler,    
+Murat Efe Özoğul    
+Berat Güngör      
+Ömer Çelik      
 
 📝 Kurulum ve Çalıştırma
 Depoyu bilgisayarınıza klonlayın: git clone https://github.com/murvtoz/Depo-Yonetim-Sistemi.git
